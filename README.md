@@ -1,4 +1,5 @@
 # AI-Agents-Intensive-Vibe-Coding-Capstone-Project
+<img width="1024" height="1024" alt="docuguard" src="https://github.com/user-attachments/assets/ed28842c-04bd-423d-85c5-368fee17209b" />
 
 ## DocuGuard Enterprise: Autonomous Multi-Agent Data Compliance Pipeline 🛡️
 
